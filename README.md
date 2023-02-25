@@ -1,2 +1,4 @@
-# nand2tetris
-Nand2Tetris course project files solutions (01-06)
+# Nand2Tetris Assigments 1 to 6
+### For Computer Science B.Sc. Ariel University
+
+**By Roy Simanovich and Shanny Abid**
